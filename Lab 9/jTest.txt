@@ -1,0 +1,16 @@
+The Greenery, 4
+Brick Oven, 7
+Shoots, 4
+Magleby's, 0
+Food Court, 2
+Cafe Rio, 11
+Tucanos, 3
+Olive Garden, 2
+Wendy's, 4
+Joe Vera's, 2
+Zupas, 8
+Red Robin, 4
+Sonic, 5
+Arby's, 1
+Chuck-A-Rama, 0
+Panda Express, 8

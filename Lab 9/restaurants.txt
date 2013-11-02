@@ -1,0 +1,16 @@
+Cafe Rio, 10
+Carrabba's, 8
+Zupas, 8
+Panda Express, 7
+Wendy's, 4
+Shoots, 3
+Tucanos, 1
+Joe Vera's, 2
+Red Robin, 2
+Olive Garden, 2
+Food Court, 1
+Arby's, 1
+Sonic, 5
+Brick Oven, 4
+Chuck-A-Rama, 0
+Magleby's, 0
